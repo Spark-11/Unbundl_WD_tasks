@@ -1,0 +1,32 @@
+@media screen and (max-width : 948px) {
+    body p{
+        font-size: 16px;
+    }
+    .arrow{
+        font-size: 28px;
+        margin: 0 -4px;
+    }
+    
+}
+@media screen and (max-width : 705px){
+    .arrow{
+        font-size: 20px;
+        margin: 0 -40px;
+    }
+}
+@media screen and (max-width : 500px){
+    body p{
+        font-size: 12px;
+    }
+    .arrow{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width : 320px){
+    body p{
+        font-size: 9px;
+    }
+    .arrow{
+        font-size: 10px;
+    }
+}
